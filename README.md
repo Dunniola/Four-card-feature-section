@@ -32,7 +32,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Four-card-feature-section.git)
-- Live Site URL: [Netlify App](https://your-live-site-url.com)
+- Live Site URL: [Netlify App](https://four-card-main-feature.netlify.app/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://four-card-main-feature.netlify.app/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
